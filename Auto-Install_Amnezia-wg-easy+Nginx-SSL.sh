@@ -147,7 +147,7 @@ docker run -d \
   ghcr.io/potap1978/amnezia-wg-easy
 
 # Вывод информации
-echo ""
+echo "Обязательно передай привет Potap`у :) "
 echo "Установка завершена!"
 echo "-----------------------------"
 echo "Доступ к веб-интерфейсу: https://$SERVER_IP"
