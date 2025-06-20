@@ -433,3 +433,9 @@ echo "IP-адреса в локальной сети:"
 echo "Amnezia-WG-Easy: 172.20.0.2"
 echo "AdGuard Home: 172.20.0.3"
 echo ""
+
+# Очистка истории команд
+echo "Очищаем историю команд..."
+history -c
+history -w
+echo "История команд очищена."
