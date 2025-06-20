@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 # Проверка на root
 if [ "$(id -u)" -ne 0 ]; then
